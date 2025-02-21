@@ -1,5 +1,0 @@
----
-title: photos
-date: 2025-02-21 14:07:19
-type: 'photos'
----
